@@ -1,0 +1,23 @@
+{
+  "version": 2,
+  "dgSpecHash": "D6YgPei0XCg0ETizv2NxIMuT0xHrZLVVqnvcRo9AZRE8Zzd2SDuOavuXp7Aj9EM8skZxmqCaMIKSaEBHRdqvRA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\samue\\OneDrive - University of Birmingham\\Personal\\Programing\\Programming\\Programming\\Non School Work\\Threaded 4d Mandlebrot Set\\Threaded 4d Mandlebrot Set\\Threaded 4d Mandlebrot Set.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\samue\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
+    "C:\\Users\\samue\\.nuget\\packages\\microsoft.win32.systemevents\\5.0.0\\microsoft.win32.systemevents.5.0.0.nupkg.sha512",
+    "C:\\Users\\samue\\.nuget\\packages\\system.drawing.common\\5.0.2\\system.drawing.common.5.0.2.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1904",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'System.Drawing.Common' 5.0.2 has a known critical severity vulnerability, https://github.com/advisories/GHSA-rxg9-xrhp-64gj",
+      "libraryId": "System.Drawing.Common",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    }
+  ]
+}
