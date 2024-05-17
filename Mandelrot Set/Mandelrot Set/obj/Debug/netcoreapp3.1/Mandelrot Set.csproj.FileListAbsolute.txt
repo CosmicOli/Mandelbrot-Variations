@@ -1,0 +1,59 @@
+C:\Users\signu\OneDrive - Hills Road Sixth Form College\Computing\Programming\Mandelrot Set\Mandelrot Set\bin\Debug\netcoreapp3.1\Mandelrot Set.exe
+C:\Users\signu\OneDrive - Hills Road Sixth Form College\Computing\Programming\Mandelrot Set\Mandelrot Set\bin\Debug\netcoreapp3.1\Mandelrot Set.deps.json
+C:\Users\signu\OneDrive - Hills Road Sixth Form College\Computing\Programming\Mandelrot Set\Mandelrot Set\bin\Debug\netcoreapp3.1\Mandelrot Set.runtimeconfig.json
+C:\Users\signu\OneDrive - Hills Road Sixth Form College\Computing\Programming\Mandelrot Set\Mandelrot Set\bin\Debug\netcoreapp3.1\Mandelrot Set.runtimeconfig.dev.json
+C:\Users\signu\OneDrive - Hills Road Sixth Form College\Computing\Programming\Mandelrot Set\Mandelrot Set\bin\Debug\netcoreapp3.1\Mandelrot Set.dll
+C:\Users\signu\OneDrive - Hills Road Sixth Form College\Computing\Programming\Mandelrot Set\Mandelrot Set\bin\Debug\netcoreapp3.1\Mandelrot Set.pdb
+C:\Users\signu\OneDrive - Hills Road Sixth Form College\Computing\Programming\Mandelrot Set\Mandelrot Set\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\signu\OneDrive - Hills Road Sixth Form College\Computing\Programming\Mandelrot Set\Mandelrot Set\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\signu\OneDrive - Hills Road Sixth Form College\Computing\Programming\Mandelrot Set\Mandelrot Set\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\signu\OneDrive - Hills Road Sixth Form College\Computing\Programming\Mandelrot Set\Mandelrot Set\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\signu\OneDrive - Hills Road Sixth Form College\Computing\Programming\Mandelrot Set\Mandelrot Set\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\signu\OneDrive - Hills Road Sixth Form College\Computing\Programming\Mandelrot Set\Mandelrot Set\obj\Debug\netcoreapp3.1\Mandelrot Set.csproj.AssemblyReference.cache
+C:\Users\signu\OneDrive - Hills Road Sixth Form College\Computing\Programming\Mandelrot Set\Mandelrot Set\obj\Debug\netcoreapp3.1\Mandelrot Set.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\signu\OneDrive - Hills Road Sixth Form College\Computing\Programming\Mandelrot Set\Mandelrot Set\obj\Debug\netcoreapp3.1\Mandelrot Set.AssemblyInfoInputs.cache
+C:\Users\signu\OneDrive - Hills Road Sixth Form College\Computing\Programming\Mandelrot Set\Mandelrot Set\obj\Debug\netcoreapp3.1\Mandelrot Set.AssemblyInfo.cs
+C:\Users\signu\OneDrive - Hills Road Sixth Form College\Computing\Programming\Mandelrot Set\Mandelrot Set\obj\Debug\netcoreapp3.1\Mandelrot Set.csproj.CoreCompileInputs.cache
+C:\Users\signu\OneDrive - Hills Road Sixth Form College\Computing\Programming\Mandelrot Set\Mandelrot Set\obj\Debug\netcoreapp3.1\Mandelrot Set.dll
+C:\Users\signu\OneDrive - Hills Road Sixth Form College\Computing\Programming\Mandelrot Set\Mandelrot Set\obj\Debug\netcoreapp3.1\Mandelrot Set.pdb
+C:\Users\signu\OneDrive - Hills Road Sixth Form College\Computing\Programming\Mandelrot Set\Mandelrot Set\obj\Debug\netcoreapp3.1\Mandelrot Set.genruntimeconfig.cache
+E:\One Drive Backup\School\Computing\Programming\Non School Work\Mandelrot Set\Mandelrot Set\bin\Debug\netcoreapp3.1\Mandelrot Set.exe
+E:\One Drive Backup\School\Computing\Programming\Non School Work\Mandelrot Set\Mandelrot Set\bin\Debug\netcoreapp3.1\Mandelrot Set.deps.json
+E:\One Drive Backup\School\Computing\Programming\Non School Work\Mandelrot Set\Mandelrot Set\bin\Debug\netcoreapp3.1\Mandelrot Set.runtimeconfig.json
+E:\One Drive Backup\School\Computing\Programming\Non School Work\Mandelrot Set\Mandelrot Set\bin\Debug\netcoreapp3.1\Mandelrot Set.runtimeconfig.dev.json
+E:\One Drive Backup\School\Computing\Programming\Non School Work\Mandelrot Set\Mandelrot Set\bin\Debug\netcoreapp3.1\Mandelrot Set.dll
+E:\One Drive Backup\School\Computing\Programming\Non School Work\Mandelrot Set\Mandelrot Set\bin\Debug\netcoreapp3.1\Mandelrot Set.pdb
+E:\One Drive Backup\School\Computing\Programming\Non School Work\Mandelrot Set\Mandelrot Set\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+E:\One Drive Backup\School\Computing\Programming\Non School Work\Mandelrot Set\Mandelrot Set\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+E:\One Drive Backup\School\Computing\Programming\Non School Work\Mandelrot Set\Mandelrot Set\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\One Drive Backup\School\Computing\Programming\Non School Work\Mandelrot Set\Mandelrot Set\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\One Drive Backup\School\Computing\Programming\Non School Work\Mandelrot Set\Mandelrot Set\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\One Drive Backup\School\Computing\Programming\Non School Work\Mandelrot Set\Mandelrot Set\obj\Debug\netcoreapp3.1\Mandelrot Set.csproj.AssemblyReference.cache
+E:\One Drive Backup\School\Computing\Programming\Non School Work\Mandelrot Set\Mandelrot Set\obj\Debug\netcoreapp3.1\Mandelrot Set.GeneratedMSBuildEditorConfig.editorconfig
+E:\One Drive Backup\School\Computing\Programming\Non School Work\Mandelrot Set\Mandelrot Set\obj\Debug\netcoreapp3.1\Mandelrot Set.AssemblyInfoInputs.cache
+E:\One Drive Backup\School\Computing\Programming\Non School Work\Mandelrot Set\Mandelrot Set\obj\Debug\netcoreapp3.1\Mandelrot Set.AssemblyInfo.cs
+E:\One Drive Backup\School\Computing\Programming\Non School Work\Mandelrot Set\Mandelrot Set\obj\Debug\netcoreapp3.1\Mandelrot Set.csproj.CoreCompileInputs.cache
+E:\One Drive Backup\School\Computing\Programming\Non School Work\Mandelrot Set\Mandelrot Set\obj\Debug\netcoreapp3.1\Mandelrot Set.csproj.CopyComplete
+E:\One Drive Backup\School\Computing\Programming\Non School Work\Mandelrot Set\Mandelrot Set\obj\Debug\netcoreapp3.1\Mandelrot Set.dll
+E:\One Drive Backup\School\Computing\Programming\Non School Work\Mandelrot Set\Mandelrot Set\obj\Debug\netcoreapp3.1\Mandelrot Set.pdb
+E:\One Drive Backup\School\Computing\Programming\Non School Work\Mandelrot Set\Mandelrot Set\obj\Debug\netcoreapp3.1\Mandelrot Set.genruntimeconfig.cache
+C:\Users\samue\OneDrive - University of Birmingham\Personal\Programing\Programming\Programming\Non School Work\Mandelrot Set\Mandelrot Set\bin\Debug\netcoreapp3.1\Mandelrot Set.exe
+C:\Users\samue\OneDrive - University of Birmingham\Personal\Programing\Programming\Programming\Non School Work\Mandelrot Set\Mandelrot Set\bin\Debug\netcoreapp3.1\Mandelrot Set.deps.json
+C:\Users\samue\OneDrive - University of Birmingham\Personal\Programing\Programming\Programming\Non School Work\Mandelrot Set\Mandelrot Set\bin\Debug\netcoreapp3.1\Mandelrot Set.runtimeconfig.json
+C:\Users\samue\OneDrive - University of Birmingham\Personal\Programing\Programming\Programming\Non School Work\Mandelrot Set\Mandelrot Set\bin\Debug\netcoreapp3.1\Mandelrot Set.runtimeconfig.dev.json
+C:\Users\samue\OneDrive - University of Birmingham\Personal\Programing\Programming\Programming\Non School Work\Mandelrot Set\Mandelrot Set\bin\Debug\netcoreapp3.1\Mandelrot Set.dll
+C:\Users\samue\OneDrive - University of Birmingham\Personal\Programing\Programming\Programming\Non School Work\Mandelrot Set\Mandelrot Set\bin\Debug\netcoreapp3.1\Mandelrot Set.pdb
+C:\Users\samue\OneDrive - University of Birmingham\Personal\Programing\Programming\Programming\Non School Work\Mandelrot Set\Mandelrot Set\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\samue\OneDrive - University of Birmingham\Personal\Programing\Programming\Programming\Non School Work\Mandelrot Set\Mandelrot Set\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\samue\OneDrive - University of Birmingham\Personal\Programing\Programming\Programming\Non School Work\Mandelrot Set\Mandelrot Set\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\samue\OneDrive - University of Birmingham\Personal\Programing\Programming\Programming\Non School Work\Mandelrot Set\Mandelrot Set\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\samue\OneDrive - University of Birmingham\Personal\Programing\Programming\Programming\Non School Work\Mandelrot Set\Mandelrot Set\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\samue\OneDrive - University of Birmingham\Personal\Programing\Programming\Programming\Non School Work\Mandelrot Set\Mandelrot Set\obj\Debug\netcoreapp3.1\Mandelrot Set.csproj.AssemblyReference.cache
+C:\Users\samue\OneDrive - University of Birmingham\Personal\Programing\Programming\Programming\Non School Work\Mandelrot Set\Mandelrot Set\obj\Debug\netcoreapp3.1\Mandelrot Set.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samue\OneDrive - University of Birmingham\Personal\Programing\Programming\Programming\Non School Work\Mandelrot Set\Mandelrot Set\obj\Debug\netcoreapp3.1\Mandelrot Set.AssemblyInfoInputs.cache
+C:\Users\samue\OneDrive - University of Birmingham\Personal\Programing\Programming\Programming\Non School Work\Mandelrot Set\Mandelrot Set\obj\Debug\netcoreapp3.1\Mandelrot Set.AssemblyInfo.cs
+C:\Users\samue\OneDrive - University of Birmingham\Personal\Programing\Programming\Programming\Non School Work\Mandelrot Set\Mandelrot Set\obj\Debug\netcoreapp3.1\Mandelrot Set.csproj.CoreCompileInputs.cache
+C:\Users\samue\OneDrive - University of Birmingham\Personal\Programing\Programming\Programming\Non School Work\Mandelrot Set\Mandelrot Set\obj\Debug\netcoreapp3.1\Mandelro.131AE0F9.Up2Date
+C:\Users\samue\OneDrive - University of Birmingham\Personal\Programing\Programming\Programming\Non School Work\Mandelrot Set\Mandelrot Set\obj\Debug\netcoreapp3.1\Mandelrot Set.dll
+C:\Users\samue\OneDrive - University of Birmingham\Personal\Programing\Programming\Programming\Non School Work\Mandelrot Set\Mandelrot Set\obj\Debug\netcoreapp3.1\Mandelrot Set.pdb
+C:\Users\samue\OneDrive - University of Birmingham\Personal\Programing\Programming\Programming\Non School Work\Mandelrot Set\Mandelrot Set\obj\Debug\netcoreapp3.1\Mandelrot Set.genruntimeconfig.cache
