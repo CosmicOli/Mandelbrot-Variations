@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "fLe12uEnXpNd5Z72lxHq2P8GBQtat73k+cNc+XwFJ0eWF07ZEg081A2yrZdfjneh4K0kCznToAFP0zv3FY47Jg==",
+  "success": true,
+  "projectFilePath": "F:\\One Drive (UOB)\\OneDrive - University of Birmingham\\Personal\\Programing\\Code To Upload\\c#\\Mandelbrot Variations\\Threaded Mandelbrot Set\\Threaded Mandelbrot Set\\Threaded Mandelbrot Set.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Sam\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
+    "C:\\Users\\Sam\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "C:\\Users\\Sam\\.nuget\\packages\\microsoft.win32.systemevents\\5.0.0\\microsoft.win32.systemevents.5.0.0.nupkg.sha512",
+    "C:\\Users\\Sam\\.nuget\\packages\\system.collections\\4.3.0\\system.collections.4.3.0.nupkg.sha512",
+    "C:\\Users\\Sam\\.nuget\\packages\\system.drawing.common\\5.0.2\\system.drawing.common.5.0.2.nupkg.sha512",
+    "C:\\Users\\Sam\\.nuget\\packages\\system.runtime\\4.3.0\\system.runtime.4.3.0.nupkg.sha512"
+  ],
+  "logs": []
+}

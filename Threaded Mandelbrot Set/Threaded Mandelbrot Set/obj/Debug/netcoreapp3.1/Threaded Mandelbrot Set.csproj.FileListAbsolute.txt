@@ -1,0 +1,78 @@
+C:\Users\signu\source\repos\Threaded Mandelbrot Set\Threaded Mandelbrot Set\bin\Debug\netcoreapp3.1\Threaded Mandelbrot Set.exe
+C:\Users\signu\source\repos\Threaded Mandelbrot Set\Threaded Mandelbrot Set\bin\Debug\netcoreapp3.1\Threaded Mandelbrot Set.deps.json
+C:\Users\signu\source\repos\Threaded Mandelbrot Set\Threaded Mandelbrot Set\bin\Debug\netcoreapp3.1\Threaded Mandelbrot Set.runtimeconfig.json
+C:\Users\signu\source\repos\Threaded Mandelbrot Set\Threaded Mandelbrot Set\bin\Debug\netcoreapp3.1\Threaded Mandelbrot Set.runtimeconfig.dev.json
+C:\Users\signu\source\repos\Threaded Mandelbrot Set\Threaded Mandelbrot Set\bin\Debug\netcoreapp3.1\Threaded Mandelbrot Set.dll
+C:\Users\signu\source\repos\Threaded Mandelbrot Set\Threaded Mandelbrot Set\bin\Debug\netcoreapp3.1\Threaded Mandelbrot Set.pdb
+C:\Users\signu\source\repos\Threaded Mandelbrot Set\Threaded Mandelbrot Set\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\signu\source\repos\Threaded Mandelbrot Set\Threaded Mandelbrot Set\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\signu\source\repos\Threaded Mandelbrot Set\Threaded Mandelbrot Set\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\signu\source\repos\Threaded Mandelbrot Set\Threaded Mandelbrot Set\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\signu\source\repos\Threaded Mandelbrot Set\Threaded Mandelbrot Set\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\signu\source\repos\Threaded Mandelbrot Set\Threaded Mandelbrot Set\obj\Debug\netcoreapp3.1\Threaded Mandelbrot Set.csproj.AssemblyReference.cache
+C:\Users\signu\source\repos\Threaded Mandelbrot Set\Threaded Mandelbrot Set\obj\Debug\netcoreapp3.1\Threaded Mandelbrot Set.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\signu\source\repos\Threaded Mandelbrot Set\Threaded Mandelbrot Set\obj\Debug\netcoreapp3.1\Threaded Mandelbrot Set.AssemblyInfoInputs.cache
+C:\Users\signu\source\repos\Threaded Mandelbrot Set\Threaded Mandelbrot Set\obj\Debug\netcoreapp3.1\Threaded Mandelbrot Set.AssemblyInfo.cs
+C:\Users\signu\source\repos\Threaded Mandelbrot Set\Threaded Mandelbrot Set\obj\Debug\netcoreapp3.1\Threaded Mandelbrot Set.csproj.CoreCompileInputs.cache
+C:\Users\signu\source\repos\Threaded Mandelbrot Set\Threaded Mandelbrot Set\obj\Debug\netcoreapp3.1\Threaded Mandelbrot Set.dll
+C:\Users\signu\source\repos\Threaded Mandelbrot Set\Threaded Mandelbrot Set\obj\Debug\netcoreapp3.1\Threaded Mandelbrot Set.pdb
+C:\Users\signu\source\repos\Threaded Mandelbrot Set\Threaded Mandelbrot Set\obj\Debug\netcoreapp3.1\Threaded Mandelbrot Set.genruntimeconfig.cache
+C:\Users\signu\OneDrive - Hills Road Sixth Form College\Computing\Programming\Threaded Mandelbrot Set\Threaded Mandelbrot Set\obj\Debug\netcoreapp3.1\Threaded Mandelbrot Set.csproj.AssemblyReference.cache
+C:\Users\signu\OneDrive - Hills Road Sixth Form College\Computing\Programming\Threaded Mandelbrot Set\Threaded Mandelbrot Set\obj\Debug\netcoreapp3.1\Threaded Mandelbrot Set.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\signu\OneDrive - Hills Road Sixth Form College\Computing\Programming\Threaded Mandelbrot Set\Threaded Mandelbrot Set\obj\Debug\netcoreapp3.1\Threaded Mandelbrot Set.AssemblyInfoInputs.cache
+C:\Users\signu\OneDrive - Hills Road Sixth Form College\Computing\Programming\Threaded Mandelbrot Set\Threaded Mandelbrot Set\obj\Debug\netcoreapp3.1\Threaded Mandelbrot Set.AssemblyInfo.cs
+C:\Users\signu\OneDrive - Hills Road Sixth Form College\Computing\Programming\Threaded Mandelbrot Set\Threaded Mandelbrot Set\obj\Debug\netcoreapp3.1\Threaded Mandelbrot Set.csproj.CoreCompileInputs.cache
+C:\Users\signu\OneDrive - Hills Road Sixth Form College\Computing\Programming\Threaded Mandelbrot Set\Threaded Mandelbrot Set\obj\Debug\netcoreapp3.1\Threaded Mandelbrot Set.dll
+C:\Users\signu\OneDrive - Hills Road Sixth Form College\Computing\Programming\Threaded Mandelbrot Set\Threaded Mandelbrot Set\obj\Debug\netcoreapp3.1\Threaded Mandelbrot Set.pdb
+C:\Users\signu\OneDrive - Hills Road Sixth Form College\Computing\Programming\Threaded Mandelbrot Set\Threaded Mandelbrot Set\bin\Debug\netcoreapp3.1\Threaded Mandelbrot Set.exe
+C:\Users\signu\OneDrive - Hills Road Sixth Form College\Computing\Programming\Threaded Mandelbrot Set\Threaded Mandelbrot Set\bin\Debug\netcoreapp3.1\Threaded Mandelbrot Set.deps.json
+C:\Users\signu\OneDrive - Hills Road Sixth Form College\Computing\Programming\Threaded Mandelbrot Set\Threaded Mandelbrot Set\bin\Debug\netcoreapp3.1\Threaded Mandelbrot Set.runtimeconfig.json
+C:\Users\signu\OneDrive - Hills Road Sixth Form College\Computing\Programming\Threaded Mandelbrot Set\Threaded Mandelbrot Set\bin\Debug\netcoreapp3.1\Threaded Mandelbrot Set.runtimeconfig.dev.json
+C:\Users\signu\OneDrive - Hills Road Sixth Form College\Computing\Programming\Threaded Mandelbrot Set\Threaded Mandelbrot Set\bin\Debug\netcoreapp3.1\Threaded Mandelbrot Set.dll
+C:\Users\signu\OneDrive - Hills Road Sixth Form College\Computing\Programming\Threaded Mandelbrot Set\Threaded Mandelbrot Set\bin\Debug\netcoreapp3.1\Threaded Mandelbrot Set.pdb
+C:\Users\signu\OneDrive - Hills Road Sixth Form College\Computing\Programming\Threaded Mandelbrot Set\Threaded Mandelbrot Set\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\signu\OneDrive - Hills Road Sixth Form College\Computing\Programming\Threaded Mandelbrot Set\Threaded Mandelbrot Set\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\signu\OneDrive - Hills Road Sixth Form College\Computing\Programming\Threaded Mandelbrot Set\Threaded Mandelbrot Set\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\signu\OneDrive - Hills Road Sixth Form College\Computing\Programming\Threaded Mandelbrot Set\Threaded Mandelbrot Set\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\signu\OneDrive - Hills Road Sixth Form College\Computing\Programming\Threaded Mandelbrot Set\Threaded Mandelbrot Set\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\signu\OneDrive - Hills Road Sixth Form College\Computing\Programming\Threaded Mandelbrot Set\Threaded Mandelbrot Set\obj\Debug\netcoreapp3.1\Threaded Mandelbrot Set.genruntimeconfig.cache
+E:\One Drive Backup\School\Computing\Programming\Non School Work\Threaded Mandelbrot Set\Threaded Mandelbrot Set\bin\Debug\netcoreapp3.1\Threaded Mandelbrot Set.exe
+E:\One Drive Backup\School\Computing\Programming\Non School Work\Threaded Mandelbrot Set\Threaded Mandelbrot Set\bin\Debug\netcoreapp3.1\Threaded Mandelbrot Set.deps.json
+E:\One Drive Backup\School\Computing\Programming\Non School Work\Threaded Mandelbrot Set\Threaded Mandelbrot Set\bin\Debug\netcoreapp3.1\Threaded Mandelbrot Set.runtimeconfig.json
+E:\One Drive Backup\School\Computing\Programming\Non School Work\Threaded Mandelbrot Set\Threaded Mandelbrot Set\bin\Debug\netcoreapp3.1\Threaded Mandelbrot Set.runtimeconfig.dev.json
+E:\One Drive Backup\School\Computing\Programming\Non School Work\Threaded Mandelbrot Set\Threaded Mandelbrot Set\bin\Debug\netcoreapp3.1\Threaded Mandelbrot Set.dll
+E:\One Drive Backup\School\Computing\Programming\Non School Work\Threaded Mandelbrot Set\Threaded Mandelbrot Set\bin\Debug\netcoreapp3.1\Threaded Mandelbrot Set.pdb
+E:\One Drive Backup\School\Computing\Programming\Non School Work\Threaded Mandelbrot Set\Threaded Mandelbrot Set\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+E:\One Drive Backup\School\Computing\Programming\Non School Work\Threaded Mandelbrot Set\Threaded Mandelbrot Set\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+E:\One Drive Backup\School\Computing\Programming\Non School Work\Threaded Mandelbrot Set\Threaded Mandelbrot Set\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\One Drive Backup\School\Computing\Programming\Non School Work\Threaded Mandelbrot Set\Threaded Mandelbrot Set\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\One Drive Backup\School\Computing\Programming\Non School Work\Threaded Mandelbrot Set\Threaded Mandelbrot Set\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\One Drive Backup\School\Computing\Programming\Non School Work\Threaded Mandelbrot Set\Threaded Mandelbrot Set\obj\Debug\netcoreapp3.1\Threaded Mandelbrot Set.csproj.AssemblyReference.cache
+E:\One Drive Backup\School\Computing\Programming\Non School Work\Threaded Mandelbrot Set\Threaded Mandelbrot Set\obj\Debug\netcoreapp3.1\Threaded Mandelbrot Set.GeneratedMSBuildEditorConfig.editorconfig
+E:\One Drive Backup\School\Computing\Programming\Non School Work\Threaded Mandelbrot Set\Threaded Mandelbrot Set\obj\Debug\netcoreapp3.1\Threaded Mandelbrot Set.AssemblyInfoInputs.cache
+E:\One Drive Backup\School\Computing\Programming\Non School Work\Threaded Mandelbrot Set\Threaded Mandelbrot Set\obj\Debug\netcoreapp3.1\Threaded Mandelbrot Set.AssemblyInfo.cs
+E:\One Drive Backup\School\Computing\Programming\Non School Work\Threaded Mandelbrot Set\Threaded Mandelbrot Set\obj\Debug\netcoreapp3.1\Threaded Mandelbrot Set.csproj.CoreCompileInputs.cache
+E:\One Drive Backup\School\Computing\Programming\Non School Work\Threaded Mandelbrot Set\Threaded Mandelbrot Set\obj\Debug\netcoreapp3.1\Threaded Mandelbrot Set.csproj.CopyComplete
+E:\One Drive Backup\School\Computing\Programming\Non School Work\Threaded Mandelbrot Set\Threaded Mandelbrot Set\obj\Debug\netcoreapp3.1\Threaded Mandelbrot Set.dll
+E:\One Drive Backup\School\Computing\Programming\Non School Work\Threaded Mandelbrot Set\Threaded Mandelbrot Set\obj\Debug\netcoreapp3.1\Threaded Mandelbrot Set.pdb
+E:\One Drive Backup\School\Computing\Programming\Non School Work\Threaded Mandelbrot Set\Threaded Mandelbrot Set\obj\Debug\netcoreapp3.1\Threaded Mandelbrot Set.genruntimeconfig.cache
+F:\One Drive (UOB)\OneDrive - University of Birmingham\Personal\Programing\Code To Upload\c#\Mandelbrot Variations\Threaded Mandelbrot Set\Threaded Mandelbrot Set\bin\Debug\netcoreapp3.1\Threaded Mandelbrot Set.exe
+F:\One Drive (UOB)\OneDrive - University of Birmingham\Personal\Programing\Code To Upload\c#\Mandelbrot Variations\Threaded Mandelbrot Set\Threaded Mandelbrot Set\bin\Debug\netcoreapp3.1\Threaded Mandelbrot Set.deps.json
+F:\One Drive (UOB)\OneDrive - University of Birmingham\Personal\Programing\Code To Upload\c#\Mandelbrot Variations\Threaded Mandelbrot Set\Threaded Mandelbrot Set\bin\Debug\netcoreapp3.1\Threaded Mandelbrot Set.runtimeconfig.json
+F:\One Drive (UOB)\OneDrive - University of Birmingham\Personal\Programing\Code To Upload\c#\Mandelbrot Variations\Threaded Mandelbrot Set\Threaded Mandelbrot Set\bin\Debug\netcoreapp3.1\Threaded Mandelbrot Set.runtimeconfig.dev.json
+F:\One Drive (UOB)\OneDrive - University of Birmingham\Personal\Programing\Code To Upload\c#\Mandelbrot Variations\Threaded Mandelbrot Set\Threaded Mandelbrot Set\bin\Debug\netcoreapp3.1\Threaded Mandelbrot Set.dll
+F:\One Drive (UOB)\OneDrive - University of Birmingham\Personal\Programing\Code To Upload\c#\Mandelbrot Variations\Threaded Mandelbrot Set\Threaded Mandelbrot Set\bin\Debug\netcoreapp3.1\Threaded Mandelbrot Set.pdb
+F:\One Drive (UOB)\OneDrive - University of Birmingham\Personal\Programing\Code To Upload\c#\Mandelbrot Variations\Threaded Mandelbrot Set\Threaded Mandelbrot Set\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+F:\One Drive (UOB)\OneDrive - University of Birmingham\Personal\Programing\Code To Upload\c#\Mandelbrot Variations\Threaded Mandelbrot Set\Threaded Mandelbrot Set\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+F:\One Drive (UOB)\OneDrive - University of Birmingham\Personal\Programing\Code To Upload\c#\Mandelbrot Variations\Threaded Mandelbrot Set\Threaded Mandelbrot Set\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+F:\One Drive (UOB)\OneDrive - University of Birmingham\Personal\Programing\Code To Upload\c#\Mandelbrot Variations\Threaded Mandelbrot Set\Threaded Mandelbrot Set\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\One Drive (UOB)\OneDrive - University of Birmingham\Personal\Programing\Code To Upload\c#\Mandelbrot Variations\Threaded Mandelbrot Set\Threaded Mandelbrot Set\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\One Drive (UOB)\OneDrive - University of Birmingham\Personal\Programing\Code To Upload\c#\Mandelbrot Variations\Threaded Mandelbrot Set\Threaded Mandelbrot Set\obj\Debug\netcoreapp3.1\Threaded Mandelbrot Set.csproj.AssemblyReference.cache
+F:\One Drive (UOB)\OneDrive - University of Birmingham\Personal\Programing\Code To Upload\c#\Mandelbrot Variations\Threaded Mandelbrot Set\Threaded Mandelbrot Set\obj\Debug\netcoreapp3.1\Threaded Mandelbrot Set.GeneratedMSBuildEditorConfig.editorconfig
+F:\One Drive (UOB)\OneDrive - University of Birmingham\Personal\Programing\Code To Upload\c#\Mandelbrot Variations\Threaded Mandelbrot Set\Threaded Mandelbrot Set\obj\Debug\netcoreapp3.1\Threaded Mandelbrot Set.AssemblyInfoInputs.cache
+F:\One Drive (UOB)\OneDrive - University of Birmingham\Personal\Programing\Code To Upload\c#\Mandelbrot Variations\Threaded Mandelbrot Set\Threaded Mandelbrot Set\obj\Debug\netcoreapp3.1\Threaded Mandelbrot Set.AssemblyInfo.cs
+F:\One Drive (UOB)\OneDrive - University of Birmingham\Personal\Programing\Code To Upload\c#\Mandelbrot Variations\Threaded Mandelbrot Set\Threaded Mandelbrot Set\obj\Debug\netcoreapp3.1\Threaded Mandelbrot Set.csproj.CoreCompileInputs.cache
+F:\One Drive (UOB)\OneDrive - University of Birmingham\Personal\Programing\Code To Upload\c#\Mandelbrot Variations\Threaded Mandelbrot Set\Threaded Mandelbrot Set\obj\Debug\netcoreapp3.1\Threaded Mandelbrot Set.csproj.CopyComplete
+F:\One Drive (UOB)\OneDrive - University of Birmingham\Personal\Programing\Code To Upload\c#\Mandelbrot Variations\Threaded Mandelbrot Set\Threaded Mandelbrot Set\obj\Debug\netcoreapp3.1\Threaded Mandelbrot Set.dll
+F:\One Drive (UOB)\OneDrive - University of Birmingham\Personal\Programing\Code To Upload\c#\Mandelbrot Variations\Threaded Mandelbrot Set\Threaded Mandelbrot Set\obj\Debug\netcoreapp3.1\Threaded Mandelbrot Set.pdb
+F:\One Drive (UOB)\OneDrive - University of Birmingham\Personal\Programing\Code To Upload\c#\Mandelbrot Variations\Threaded Mandelbrot Set\Threaded Mandelbrot Set\obj\Debug\netcoreapp3.1\Threaded Mandelbrot Set.genruntimeconfig.cache
